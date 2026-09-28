@@ -1,4 +1,4 @@
-# Projet Web 3
+# Projet Web 2
 
 Projet d'intégration web responsive réalisé en HTML5 et CSS3.
 
